@@ -1,0 +1,3 @@
+programacion orientada a objetos
+principios SOLID
+Patrones de Diseño
